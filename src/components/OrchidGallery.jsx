@@ -14,7 +14,7 @@ function OrchidGallery() {
         <Row className="g-4">
           <Col xs={12} sm={6} lg={4}>
             <Card className="h-100 orchid-card shadow-sm">
-              <Card.Img variant="top" src="/images/orchid-01.svg" alt="Purple orchid" />
+              <Card.Img variant="top" src="/images/orchid-01.jpg" alt="Purple orchid" />
               <Card.Body className="d-flex flex-column">
                 <Card.Title>Purple Star</Card.Title>
                 <Card.Text>Phalaenopsis - soft light and moderate watering.</Card.Text>
@@ -24,7 +24,7 @@ function OrchidGallery() {
           </Col>
           <Col xs={12} sm={6} lg={4}>
             <Card className="h-100 orchid-card shadow-sm">
-              <Card.Img variant="top" src="/images/orchid-02.svg" alt="Pink orchid" />
+              <Card.Img variant="top" src="/images/orchid-02.jpg" alt="Pink orchid" />
               <Card.Body className="d-flex flex-column">
                 <Card.Title>Pink Dawn</Card.Title>
                 <Card.Text>Dendrobium - bright indirect light and airy roots.</Card.Text>
@@ -34,7 +34,7 @@ function OrchidGallery() {
           </Col>
           <Col xs={12} sm={6} lg={4}>
             <Card className="h-100 orchid-card shadow-sm">
-              <Card.Img variant="top" src="/images/orchid-03.svg" alt="White orchid" />
+              <Card.Img variant="top" src="/images/orchid-03.jpg" alt="White orchid" />
               <Card.Body className="d-flex flex-column">
                 <Card.Title>White Cloud</Card.Title>
                 <Card.Text>Vanda - warm conditions and strong filtered light.</Card.Text>
@@ -44,7 +44,7 @@ function OrchidGallery() {
           </Col>
           <Col xs={12} sm={6} lg={4}>
             <Card className="h-100 orchid-card shadow-sm">
-              <Card.Img variant="top" src="/images/orchid-04.svg" alt="Yellow orchid" />
+              <Card.Img variant="top" src="/images/orchid-04.jpg" alt="Yellow orchid" />
               <Card.Body className="d-flex flex-column">
                 <Card.Title>Golden Sun</Card.Title>
                 <Card.Text>Oncidium - good airflow and careful moisture control.</Card.Text>
@@ -54,7 +54,7 @@ function OrchidGallery() {
           </Col>
           <Col xs={12} sm={6} lg={4}>
             <Card className="h-100 orchid-card shadow-sm">
-              <Card.Img variant="top" src="/images/orchid-05.svg" alt="Orange orchid" />
+              <Card.Img variant="top" src="/images/orchid-05.jpg" alt="Orange orchid" />
               <Card.Body className="d-flex flex-column">
                 <Card.Title>Amber Wing</Card.Title>
                 <Card.Text>Cattleya - bright light and a drying period between watering.</Card.Text>
@@ -64,7 +64,7 @@ function OrchidGallery() {
           </Col>
           <Col xs={12} sm={6} lg={4}>
             <Card className="h-100 orchid-card shadow-sm">
-              <Card.Img variant="top" src="/images/orchid-06.svg" alt="Blue orchid illustration" />
+              <Card.Img variant="top" src="/images/orchid-06.jpg" alt="Blue orchid illustration" />
               <Card.Body className="d-flex flex-column">
                 <Card.Title>Blue Mist</Card.Title>
                 <Card.Text>Practice sample - use this card to discuss reuse and Props next slot.</Card.Text>
