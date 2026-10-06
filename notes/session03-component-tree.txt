@@ -1,0 +1,8 @@
+App
+|-- AppNavbar
+|-- HeroSection
+|-- QuickStats
+|-- OrchidGallery
+|-- CareTips
+|-- LearningAlert
+`-- AppFooter
