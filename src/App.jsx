@@ -7,19 +7,19 @@ import LearningAlert from './components/LearningAlert.jsx';
 import AppFooter from './components/AppFooter.jsx';
 
 function App() {
-  return (
-    <div className="app-shell">
-      <AppNavbar />
-      <main>
-        <HeroSection />
-        <QuickStats />
-        <OrchidGallery />
-        <CareTips />
-        <LearningAlert />
-      </main>
-      <AppFooter />
-    </div>
-  );
+    return (
+        <div className="app-shell">
+            <AppNavbar/>
+            <main>
+                <HeroSection/>
+                <QuickStats/>
+                <OrchidGallery/>
+                <CareTips/>
+                <LearningAlert/>
+            </main>
+            <AppFooter/>
+        </div>
+    );
 }
 
 export default App;
